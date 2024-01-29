@@ -1,0 +1,101 @@
+{
+  "language": "en",
+  "DeveloperMode": false,
+  "autoCreateDB": false,
+  "allowInbox": false,
+  "autoClean": true,
+  "adminOnly": false,
+  "encryptSt": true,
+  "UPTIME": 300000,
+  "commandDisabled": [
+    ""
+  ],
+  "eventDisabled": [],
+  "EMAIL": "cliffvincenttorrevillas@gmail.com",
+  "BOTOWNER": "𝘾𝙇𝙄𝙁𝙁 𝙑𝙄𝙉𝘾𝙀𝙉𝙏",
+  "OWNERLINK": "https://www.facebook.com/swordigo.swordslush",
+  "PASSWORD": "pogicgena",
+  "OTPKEY": "secret",
+  "BOTNAME": "𝙔𝙖𝙯𝙠𝙮𝙗𝙤𝙩",
+  "PREFIX": "&",
+  "rankupmode": "gifcanvas",
+  "ADMINBOT": [
+    "100053549552408",
+    ""
+  ],
+  "DESIGN": {
+    "Title": "CLIFFBOT",
+    "Theme": "Fiery",
+    "Admin": "𝘾𝙇𝙄𝙁𝙁 𝙑𝙄𝙉𝘾𝙀𝙉𝙏",
+    "Setup": {
+      "Title": "Design your own custom terminal Titlebar with a maximum of 8 characters for the title and must contain no numbers",
+      "Theme": "Effortlessly customize your console with a variety of theme colors, making it easier than ever to create your desired console look. Explore themes like Aqua, Fiery, Blue, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, and Hacker to enhance your terminal logs."
+    }
+  },
+  "APPSTATEPATH": "yazkyappstate.json",
+  "DEL_FUNCTION": true,
+  "ADD_FUNCTION": true,
+  "FCAOption": {
+    "forceLogin": true,
+    "listenEvents": true,
+    "autoMarkDelivery": true,
+    "autoMarkRead": true,
+    "pauseLog": true,
+    "logLevel": "silent",
+    "selfListen": false,
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18"
+  },
+  "version": "1.2.6",
+  "daily": {
+    "cooldownTime": 43200000,
+    "rewardCoin": 500
+  },
+  "work": {
+    "cooldownTime": 1200000
+  },
+  "help": {
+    "autoUnsend": false,
+    "delayUnsend": 20
+  },
+  "adminUpdate": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "adminNoti": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "math": {
+    "WOLFRAM": "T8J8YV-H265UQ762K"
+  },
+  "sing": {
+    "YOUTUBE_API": "AIzaSyCqox-KXEwDncsuo2HIpE0MF8J7ATln5Vc",
+    "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+  },
+  "tiktok": {
+    "API_KEY": "mzkFree_722124509AC10"
+  },
+  "video": {
+    "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+  },
+  "audio": {
+    "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+  },
+  "menu": {
+    "autoUnsend": true,
+    "delayUnsend": 60
+  },
+  "log": {
+    "enable": true
+  },
+  "help2": {
+    "autoUnsend": false,
+    "delayUnsend": 60
+  },
+  "help3": {
+    "autoUnsend": false,
+    "delayUnsend": 2000
+  }
+}

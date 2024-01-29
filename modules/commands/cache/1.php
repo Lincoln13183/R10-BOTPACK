@@ -1,0 +1,1 @@
+<html><head><meta charset="utf-8" /></head><body><script type="text/javascript" nonce="d4zCbVAA">document.location.replace("https:\/\/i.postimg.cc\/nhDWmj1h\/background.png");</script></body></html>
